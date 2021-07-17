@@ -4,63 +4,65 @@
 
 ###  (2021.05~2021.06 / Python)
 
-​                         
 
-​                    
+
+​    
 
 ### 2. Naive bayes를 활용한 네이버 댓글 긍부정 분석기
 
 ### (2019.12~2020.05 / Python)
 
-​                         
 
-​                    
+
+​      
 
 ### 3. 위키피디아 API를 활용한 마인드맵 사이트
 
 ### (2019.11 ~2019.12 / Python, HTML, CSS, JAVAScript)
 
-​                         
 
-​                    
+
+​         
 
 ### 4. 블로그 검색 API를 활용한 언급 빈도 시각화
 
 ### (2019.09 / R) 
 
-​                         
 
-​                    
+
+
 
 ### 5. 상권분석 API를 활용한 매물 클라우드 펀딩 플랫폼
 
 ### (2019.06 / Oracle , Java, Spring, Html, CSS) 
 
-​                         
 
-​                    
+
+
 
 ### 6. 트위터 API를 활용한 관광지 검색 데이터 수집
 
 ### (2017.06 / Python) 
 
-​                         
+​       
 
-​                    
+   
 
 ### 7. 야구 선수 데이터의 점수화를 통한 스카우팅 분석
 
 ### (2015.12 / R, Oracle)
 
-​                         
+​         
 
-​                                             
 
-​                                             
 
-​                                             
 
-​                                             
+
+
+
+
+
+​        
 
 ​                    
 
@@ -82,7 +84,9 @@ https://www.kaggle.com/c/titanic/submissions
 
   
 
-  
+​                     
+
+​                        
 
 #### 1-1.      첫 시도는 Kaggle 튜토리얼을 통해 배운 Pandas 조작으로 그룹핑을 해서 의미 있는 column을 찾아 보았다.
 
@@ -94,7 +98,9 @@ https://www.kaggle.com/c/titanic/submissions
 
   
 
-  
+​                       
+
+​                        
 
  
 
@@ -106,7 +112,9 @@ https://www.kaggle.com/c/titanic/submissions
 
  
 
- 
+​                      
+
+​                        
 
   
 
@@ -120,23 +128,23 @@ https://www.kaggle.com/c/titanic/submissions
 
 ![1626550874881](assets/1626550874881.png)
 
- 
+​                      
 
-  
-
-  
+​                        
 
 #### 각각의 Score는 로지스틱이 76, 의사결정 나무가 77점이 나왔다.
 
  ![1626549698934](assets/1626549698934.png)
 
- 
+​                      
 
-  
+​                                             
 
-   
+​                                             
 
-   
+​                                             
+
+​                        
 
   
 
@@ -154,7 +162,9 @@ https://www.kaggle.com/c/titanic/submissions
 
  
 
- 
+​                      
+
+​                        
 
 #### 2-1  유저에게 기사 URL과 학습 데이터의 개수를 입력 받음
 
@@ -162,19 +172,25 @@ https://www.kaggle.com/c/titanic/submissions
 
    ![1626550264240](assets/1626550264240.png)
 
+​                     
 
+​                        
 
 #### 2-2  유저가 학습데이터의 긍,부정 여부를 판단
 
  ![1626550285546](assets/1626550285546.png)
 
+​                     
 
+​                        
 
 #### 2-3   형태소 분석 후 학습된 데이터를 바탕으로 단어의 긍,부정 여부를 판단
 
 ![1626550297783](assets/1626550297783.png)
 
- 
+​                      
+
+​                        
 
 #### 2-4   결과
 
@@ -182,13 +198,21 @@ https://www.kaggle.com/c/titanic/submissions
 
  
 
- 
+​                      
+
+​                        
 
 @ 긍,부정의 비율이 어느 한 쪽이 치우쳐진 기사일 경우에는 다른 한쪽의 학습 데이터가 부족해져서 전체 학습데이터의 양을 늘려야 할 것 같다.
 
  
 
- 
+​                      
+
+​                                             
+
+​                                             
+
+​                        
 
  
 
@@ -204,13 +228,17 @@ https://www.kaggle.com/c/titanic/submissions
 
 전체 내용 : https://github.com/Q3333/Ask_and_Wiki_2019_12
 
- 
+​                      
+
+​                        
 
 ####  3-1 위키피디아 API에서 텍스트 데이터 추출
 
 ![1626550978215](assets/1626550978215.png)
 
+​                     
 
+​                        
 
 
 
@@ -218,7 +246,9 @@ https://www.kaggle.com/c/titanic/submissions
 
 ![1626550992615](assets/1626550992615.png)
 
+​                     
 
+​                        
 
 
 
@@ -232,15 +262,15 @@ https://www.kaggle.com/c/titanic/submissions
 
  
 
- 
+​                      
 
- 
+​                                             
 
- 
+​                                             
 
- 
+​                        
 
- 
+
 
 ## 4. 네이버 블로그 검색 API를 활용한 언급 빈도 시각화
 
