@@ -1,72 +1,70 @@
-## 차
+## 목차
 
 ### 1. 의사결정나무와 로지스틱 회귀분석을 활용한 타이타닉 생존자 예측
 
 ###  (2021.05~2021.06 / Python)
 
-
-
  
+
+  
 
 ### 2. Naive bayes를 활용한 네이버 댓글 긍부정 분석기
 
 ### (2019.12~2020.05 / Python)
 
-
-
  
+
+  
 
 ### 3. 위키피디아 API를 활용한 마인드맵 사이트
 
 ### (2019.11 ~2019.12 / Python, HTML, CSS, JAVAScript)
 
-
-
  
+
+  
 
 ### 4. 블로그 검색 API를 활용한 언급 빈도 시각화
 
 ### (2019.09 / R) 
 
+ 
 
-
-
+  
 
 ### 5. 상권분석 API를 활용한 매물 클라우드 펀딩 플랫폼
 
 ### (2019.06 / Oracle , Java, Spring, Html, CSS) 
 
-
-
  
+
+  
 
 ### 6. 트위터 API를 활용한 관광지 검색 데이터 수집
 
 ### (2017.06 / Python) 
 
-
-
  
+
+  
 
 ### 7. 야구 선수 데이터의 점수화를 통한 스카우팅 분석
 
 ### (2015.12 / R, Oracle)
 
-
-
  
 
  
 
+   
+
+   
+
+   
+
+​    
 
 
- 
-
-
-
- 
-
- 
 
 ## 1. 의사결정나무와 로지스틱 회귀분석을 활용한 타이타닉 생존자 예측
 
@@ -84,7 +82,9 @@ https://www.kaggle.com/c/titanic/submissions
 
 [https://github.com/Q3333/Study_Project/tree/master/Project%20-%20Titanic%20prediction](https://github.com/Q3333/Study_Project/tree/master/Project - Titanic prediction)
 
- 
+  
+
+  
 
 #### 1-1.      첫 시도는 Kaggle 튜토리얼을 통해 배운 Pandas 조작으로 그룹핑을 해서 의미 있는 column을 찾아 보았다.
 
@@ -94,7 +94,9 @@ https://www.kaggle.com/c/titanic/submissions
 
 
 
- 
+  
+
+  
 
  
 
@@ -106,7 +108,9 @@ https://www.kaggle.com/c/titanic/submissions
 
  
 
+ 
 
+  
 
 ####  1-3. 마지막으로 target과 train을 나누는 과정에서 영감을 얻어서 로지스틱 회귀 분석을 시도했다.
 
@@ -120,7 +124,9 @@ https://www.kaggle.com/c/titanic/submissions
 
  
 
- 
+  
+
+  
 
 #### 각각의 Score는 로지스틱이 76, 의사결정 나무가 77점이 나왔다.
 
@@ -128,7 +134,13 @@ https://www.kaggle.com/c/titanic/submissions
 
  
 
- 
+  
+
+   
+
+   
+
+  
 
  
 
