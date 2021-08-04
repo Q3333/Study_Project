@@ -90,9 +90,7 @@ https://www.kaggle.com/c/titanic/submissions
 
 상세 내용은 아래 Git Link에 정리
 
-[https://github.com/Q3333/Study_Project/tree/master/Project%20-%20Titanic%20prediction](https://github.com/Q3333/Study_Project/tree/master/Project - Titanic prediction)
-
-  
+https://github.com/Q3333/Study_Project/tree/master/2021_Titanic_prediction
 
 ​                     
 
@@ -168,7 +166,7 @@ https://www.kaggle.com/c/titanic/submissions
 
  
 
-전체 과정은 https://github.com/Q3333/Study_Project
+전체 과정은 https://github.com/Q3333/Study_Project/tree/master/2020_Naver_comment
 
  
 
