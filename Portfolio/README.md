@@ -84,7 +84,7 @@
 
 https://www.kaggle.com/c/titanic/submissions
 
-위 링크에서 도전해본 타이타닉 생존자 데이터를 이용한 결과 값 예측 프로젝트이다.
+위 링크에서 도전해본 타이타닉 생존자 데이터를 이용한 결과 값 예측 프로젝트.
 
  
 
@@ -96,7 +96,7 @@ https://github.com/Q3333/Study_Project/tree/master/2021_Titanic_prediction
 
 ​                        
 
-### 1-1.  첫 시도는 Kaggle 튜토리얼을 통해 배운 Pandas 조작으로 그룹핑을 해서 의미 있는 column을 찾아 보았다.
+### 1-1.  첫 시도는 Kaggle 튜토리얼을 통해 배운 Pandas 조작으로 그룹핑을 해서 의미 있는 column을 찾아봄
 
 
 
@@ -112,7 +112,7 @@ https://github.com/Q3333/Study_Project/tree/master/2021_Titanic_prediction
 
  
 
-###  1-2. 두 번째는 의사결정나무를 활용해서 생존 여부를 예측해 보았다.
+###  1-2. 두 번째는 의사결정나무를 활용해서 생존 여부를 예측
 
 
 
@@ -126,7 +126,7 @@ https://github.com/Q3333/Study_Project/tree/master/2021_Titanic_prediction
 
   
 
-###  1-3. 마지막으로 target과 train을 나누는 과정에서 영감을 얻어서 로지스틱 회귀 분석을 시도했다.
+###  1-3. 마지막으로 target과 train을 나누는 과정에서 영감을 얻어서 로지스틱 회귀 분석을 시도
 
 
 
@@ -140,7 +140,7 @@ https://github.com/Q3333/Study_Project/tree/master/2021_Titanic_prediction
 
 ​                        
 
-### 각각의 Score는 로지스틱이 76, 의사결정 나무가 77점이 나왔다.
+### 각각의 Score는 로지스틱이 76, 의사결정 나무가 77점
 
  ![1626549698934](assets/1626549698934.png)
 
@@ -210,7 +210,7 @@ https://github.com/Q3333/Study_Project/tree/master/2021_Titanic_prediction
 
 ​                        
 
-@ 긍,부정의 비율이 어느 한 쪽이 치우쳐진 기사일 경우에는 다른 한쪽의 학습 데이터가 부족해져서 전체 학습데이터의 양을 늘려야 할 것 같다.
+@ 개선사항 : 긍,부정의 비율이 어느 한 쪽이 치우쳐진 기사일 경우에는 다른 한쪽의 학습 데이터가 부족해져서 전체 학습데이터의 양을 늘려야 할 듯
 
  
 
@@ -350,7 +350,7 @@ https://github.com/Q3333/Study_Project/tree/master/2021_Titanic_prediction
 
 ##### 전체 프로젝트는 웹 플랫폼 개발이었는데, 그 중 상권 분석의 4지표를 보기 쉽게 제공하는 방법이 뭘까 고민을 하다가 
 
-##### 전체 동네의 평균과 최대값, 최소값을 구한 뒤 해당 점포의 위치와 비교를 하여 나온 차이만큼 점수화 하여 별점으로 보여 주었다.
+##### 전체 동네의 평균과 최대값, 최소값을 구한 뒤 해당 점포의 위치와 비교를 하여 나온 차이만큼 점수화 하여 별점으로 보여 줌
 
  
 
@@ -386,7 +386,7 @@ https://github.com/Q3333/Study_Project/tree/master/2021_Titanic_prediction
 
 
 
-수집 키워드는 ['관광','여행','갔다옴','갔는데','다녀옴']) 이었고, 관광지 이름들을 변수로 언급 될 때 마다 카운팅 되는 식으로 구현하였다.
+수집 키워드는 ['관광','여행','갔다옴','갔는데','다녀옴']) 이었고, 관광지 이름들을 변수로 언급 될 때 마다 카운팅 되는 식으로 구현
 
 
 
@@ -426,7 +426,7 @@ https://github.com/Q3333/Study_Project/tree/master/2021_Titanic_prediction
 
 
 
-##### 홈런 , 타점의 상관관계 오른쪽 위 방향으로 정비례 한다는 걸 보여준다.
+##### 홈런 , 타점의 상관관계 오른쪽 위 방향으로 정비례 한다는 걸 보여줌
 
 ##### 이러한 분석과 비슷한 상관관계 분석을 수 차례 진행한 내용을 바탕으로 기록들을 6가지로 분류하고 그룹핑해서 점수화.
 
